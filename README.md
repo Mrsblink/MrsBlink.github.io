@@ -1,4 +1,4 @@
-<h1<i>CryptoStars</i></h1>
+<h1><i>CryptoStars</i></h1>
 <h2>Well did you ever wonder which crypto personality are you?!<br/>
 </h2>
 <hr/>

@@ -1,5 +1,5 @@
 <h1><i>CryptoStars</i></h1>
-<img src="assets/logo.png"/>
+![alt text](https://github.com/Mrsblink/CryptoStars/blob/master/src/assets/logo.png)
 <h2>Well did you ever wonder which crypto personality are you?!<br/>
 </h2>
 <hr/>

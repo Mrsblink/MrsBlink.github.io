@@ -35,10 +35,7 @@ const styles = {
         fontStyle: "italic",
         borderBottom: "1px solid",
     },
-    "@global img": {
-        borderTopRightRadius: "20px",
-        borderBottomRightRadius: "20px",
-    }
+
 
 };
 

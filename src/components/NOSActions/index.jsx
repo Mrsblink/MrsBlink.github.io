@@ -6,6 +6,7 @@ import { injectNOS } from "../../nos";
 
 import ProfileLayout from "../ProfileLayout";
 import classNames from 'classnames';
+import Logo from "./../../assets/logo.png";
 
 import DaHongFei from '../Profiles/DaHongFei';
 import JohnMacafee from '../Profiles/JohnMacafee';
@@ -39,6 +40,11 @@ const styles = {
         position: "absolute",
         right: 0,
         bottom: 0,
+    },
+    logo: {
+        width: "350px",
+        margin: "0 auto",
+        marginBottom: "20px",
     }
 };
 
@@ -132,14 +138,15 @@ class NOSActions extends React.Component {
             <React.Fragment>
                 <div className={classNames(classes.landing, "container")}>
                     <div className={classes.landingWrapper}>
-                        <h1 className={"is-size-1"}><i>CryptoStars</i></h1>
+                        {/*<h1 className={"is-size-1"}><i>CryptoStars</i></h1>*/}
+                        <img src={Logo} className={classes.logo} alt="CryptoStars logo" key="CryptoStarsLogo" />
                         <h2 className={"is-size-3"}>
                             Well did you ever wonder which crypto personality are you?!<br/>
                         </h2>
                         <hr/>
                         <h3 className={"is-size-4"}>
-                            Neither did we but thanks to the state of the art blockchain technology the answer is only one click of the button away! (and hey... you are already here)<br/>
-                            By running your <strong>Neo</strong> balance through our advanced blockchain-based, AI assisted neural-networked computated benzine fault-tolerant formula, we are able to perfectly match you to the personality that matches you best.
+                            Neither did we, but thanks to <strong>state-of-the-art</strong> blockchain technology the answer is only one click away! (and hey ... you are already here)<br/>
+                            By running your <strong>Neo</strong> balance through our advanced blockchain-based, AI assisted neural-networked computated benzine fault-tolerant algorithm, we are able to perfectly match you to the personality that matches you best.
                         </h3>
                         <h3 className={"is-size-4"}>
                             Be underwhelmed, mildly amused or slightly offended, possibly all at once.

@@ -1,4 +1,5 @@
 <h1><i>CryptoStars</i></h1>
+<img src="assets/logo.png"/>
 <h2>Well did you ever wonder which crypto personality are you?!<br/>
 </h2>
 <hr/>
@@ -7,4 +8,4 @@
 <h3>Be underwhelmed, mildly amused or slightly offended, possibly all at once. </h3>
 
 Contact me on mrsblink@protonmail.com for business or development enquiries.
-Shoutout to zhobbes (zombie.hobbes@gmail.com)(Content Writer), JoshMichael, Master_shifu, PT and everyone over at CC that offered to help with this fun project!
+Shoutout to zhobbes (zombie.hobbes@gmail.com)(Content Writer), JoshMichael, Master_shifu, Larissa Soares2(Logo), PT and everyone over at CC that offered to help with this fun project!

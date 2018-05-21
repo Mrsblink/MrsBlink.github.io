@@ -31,7 +31,9 @@ const styles = {
         textAlign: "left"
     },
     img: {
-        width: "25%"
+        width: "25%",
+        borderTopRightRadius: "20px",
+        borderBottomRightRadius: "20px",
     },
     small: {
         display: "block",
